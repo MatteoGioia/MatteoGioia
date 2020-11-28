@@ -41,7 +41,6 @@ insert connect with me links
 
 --->
 
-<br />
 <hr>
 
  <img align="left" alt="MatteoGioia's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=MatteoGioia&show_icons=true&hide_border=true" />
