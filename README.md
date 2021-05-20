@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 
 <br> <br>
-<em> I've messed a bit with C but, to be fair, who does really say they know C well?! 😄 </em>
+<em> I also have experience with C but really, who is the madman that claims to know that language well? 😄 </em>
 
 <!-- 
 
