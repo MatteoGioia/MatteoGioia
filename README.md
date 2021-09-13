@@ -23,6 +23,7 @@ Here are some ideas to get you started:
 - 📚 I also like reading, cooking and working out in my free time!
 
 ### Connect with me: [WIP]
+- MatteoGioia.github.io (personal website)
 
 
 ### Languages and tools: 
