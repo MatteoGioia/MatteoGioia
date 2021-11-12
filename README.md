@@ -1,7 +1,7 @@
 ### Hi there! My name is Matteo 👋
 
 ### I am a CS student, based in Italy:
-- 🎓 I'm currently studying to get a degree in CS 
+- 🎓 I'm currently studying to get a Master degree in CS 
 - 💻 I'm interested in everything about Machine Learning, Artificial Intelligence 
 - 🔎 I'm always eager to learn something new about CS
 - 💾 I want to become a better coder and developer
