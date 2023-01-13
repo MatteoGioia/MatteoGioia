@@ -7,6 +7,7 @@
 
 ### Connect with me: [WIP]
 - <a href="https://MatteoGioia.github.io"> My simple personal website </a>
+- <a href="www.linkedin.com/in/matteo-gioia-dev"> LinkedIn Profile </a>
 
 
 
